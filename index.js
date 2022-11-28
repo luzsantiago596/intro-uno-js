@@ -1,4 +1,5 @@
 //Punto 1
+
 const celular = {
     marca: 'Samsung',
     color: 'azul',
